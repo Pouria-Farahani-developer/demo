@@ -1,5 +1,6 @@
 # demo
 ## update demo
+
+learn linux by 1 month
  
-1.learn command
-2.learn linux
+learn next 
